@@ -2,8 +2,9 @@
  a script to fetch latest safe/proposed/fast gas price from etherscan
  
  # pre-condition
- 1. install python3
- 2. pip3 install requests
+ 1. install python3 (command line/python site)
+ 2. change the default python root on your terminal configuration file
+ 3. install request module pip3 install requests
  # how to setup
  1. download the python file
  2. aquire your python3 root directory ($ which python3)
